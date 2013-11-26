@@ -4,4 +4,3 @@ gem 'rspec'
 gem 'guard-rspec'
 gem 'launchy'
 gem 'capybara'
-
