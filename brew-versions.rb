@@ -10,3 +10,9 @@
 # Get extended version information for each installed package
 
 # Hunt for the package and version string in the versions file
+
+module Crate
+  class Hunter
+
+  end
+end
