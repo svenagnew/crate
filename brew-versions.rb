@@ -13,6 +13,6 @@
 
 module Crate
   class Hunter
-
+    
   end
 end
